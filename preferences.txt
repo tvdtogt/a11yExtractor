@@ -1,0 +1,2 @@
+rwp_path=/full/path/to/rwp
+output_dir=/full/to/output
