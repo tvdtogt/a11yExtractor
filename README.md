@@ -4,7 +4,7 @@ run_rwp_dir uses the rwp executable from the Readium Go Toolkit (https://github.
 
 run_readium_dir does the same with the newer executable readium https://github.com/readium/cli 
 
-usage: % python run_readium_dir.py ./inputdirectorywithepubs preferences2.txt
+usage: python run_readium_dir.py ./inputdirectorywithepubs preferences2.txt
 
 extract_metadata_batch generates an overview in .csv format by parsing the JSON manifests.
 
