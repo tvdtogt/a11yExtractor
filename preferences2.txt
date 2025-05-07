@@ -1,0 +1,2 @@
+readium_path=/Users/ted/readium/readium
+output_dir=/Users/ted/Desktop/DBNL/output_img
